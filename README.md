@@ -65,4 +65,4 @@ A database-driven project built using MySQL to manage students, courses, and the
 ## 👤 Author
 
 - Bharat Panchal  
-- [GitHub Profile](https://github.com/yourusername)
+- [GitHub Profile](https://github.com/Bharat-Panchal15)
